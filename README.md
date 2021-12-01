@@ -19,7 +19,7 @@ The health care sector and all of the services that it encapsulates is one of th
 
  ## Usage
  1. Open the hospimeter.py file. 
- 2. Rigth click on the project folder >> Click on "Run 'limpo_program'"
+ 2. Rigth click on the project folder >> Click on "Run 'hospimeter'"
  3. Follow the instructions provided in the user interface.
 
 ## Support 
